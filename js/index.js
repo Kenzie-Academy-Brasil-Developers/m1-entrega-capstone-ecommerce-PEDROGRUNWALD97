@@ -1,4 +1,8 @@
+import {
+    data
+} from "./database.js";
 
+console.table(data)
 
 // criar topo //
 
