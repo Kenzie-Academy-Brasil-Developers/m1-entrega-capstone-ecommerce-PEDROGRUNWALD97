@@ -1,6 +1,6 @@
 // Banco de dados dos produtos
 
- export const data = [
+  const data = [
   {
     id: 1,
     img: "img/jaqueta.svg",
